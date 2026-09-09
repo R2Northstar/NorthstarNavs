@@ -1,9 +1,9 @@
 # Northstar Navs
 Custom navmesh files to use with Titanfall 2 AI
 
-Create navmeshes with Warmist and Rexx's fork of the [Recast Demo](https://github.com/r-ex/r2recast).
+Create navmeshes with Amos's [Recast](https://discord.com/channels/920776187884732556/925135799798874192/1386373585786110087).
 
-Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efdd4d84f8f97aff806fdbb3853ac8).
+Export maps with Zanieon's modified Warmist [python script](https://discord.com/channels/920776187884732556/925135799798874192/1125965709080539218).
 
 ## Maps
 
@@ -27,25 +27,26 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 
 | Map        | State           | Notes  |
 | ------------- |:-------------:| -----:|
-| mp_angel_city | Good |  |
-| mp_black_water_canal | Very Good | Interiors have been removed for Titans |
-| mp_coliseum | Perfect | No nodes for attrition |
-| mp_colony02 | Very Good | Roofs need to be removed for grunt AI |
-| mp_complex3 | Good |  |
-| mp_crashsite3 | Ok | Still lots of unnecesary GEO and OOB |
-| mp_drydock | Very Good | Interiors have been removed for Titans |
-| mp_eden | Very Good | Roofs might need to be removed for AI |
-| mp_forwardbase_kodai | Good | AI sometimes get stuck |
-| mp_glitch | Very Good | Removed roofs, extra areas out of bounds and pilot exclusive areas from Titan navs |
-| mp_grave | Good | Works well but AI get stuck in places |
-| mp_homestead | Very Good | Removed out of bounds areas and pilot only |
-| mp_lf_deck | Untested | Some out of bounds areas need to be trimmed |
-| mp_lf_meadow | Untested | Some out of bounds areas need to be trimmed |
-| mp_lf_stacks | Untested | Some out of bounds areas need to be trimmed |
-| mp_lf_township | Untested | Some out of bounds areas need to be trimmed |
-| mp_lf_traffic | Untested | Some out of bounds areas need to be trimmed |
-| mp_lf_uma | Untested | Some out of bounds areas need to be trimmed |
-| mp_relic02 | Good | Removed most interiors for Titans but some of the surrounding mountains need removing|
-| mp_rise | Good | Might need to test upper floors with titans |
-| mp_thaw | Very Good | Removed pilot only areas from titan navs |
-| mp_wargames | Very Good | Removed pits and interiors for Titans but the skip might be a problem |
+| mp_angel_city | Perfect |  |
+| mp_black_water_canal | Perfect |  |
+| mp_coliseum | Perfect |  |
+| mp_coliseum_column | Perfect |  |
+| mp_colony02 | Very Good | Some navmesh on tower with out of bounds |
+| mp_complex3 | Ok | Lots of out of bounds like at the ark |
+| mp_crashsite3 | Very Good | Bad slopes at IMC left side |
+| mp_drydock | Very Good | Bad slopes at the middle of Militia middle |
+| mp_eden | Perfect |  |
+| mp_forwardbase_kodai | Perfect | Doesn't have titan navmesh by Militia left side pipe |
+| mp_glitch | Very Good | AI can go out of bounds |
+| mp_grave | Ok | AI can go out of bounds and can't go through some doorways |
+| mp_homestead | Good | AI can get stuck on slopes |
+| mp_lf_deck | Untested |  |
+| mp_lf_meadow | Untested |  |
+| mp_lf_stacks | Untested |  |
+| mp_lf_township | Untested |  |
+| mp_lf_traffic | Untested |  |
+| mp_lf_uma | Untested |  |
+| mp_relic02 | Very Good | AI can go out of bounds |
+| mp_rise | Ok | AI can't go through some doorways |
+| mp_thaw | Perfect |  |
+| mp_wargames | Ok | AI will jump into the pit |
