@@ -27,26 +27,26 @@ Export maps with Zanieon's modified Warmist [python script](https://discord.com/
 
 | Map        | State           | Notes  |
 | ------------- |:-------------:| -----:|
-| mp_angel_city | Null |  |
-| mp_black_water_canal | Null |  |
+| mp_angel_city | Perfect |  |
+| mp_black_water_canal | Perfect |  |
 | mp_coliseum | Perfect |  |
 | mp_coliseum_column | Perfect |  |
-| mp_colony02 | Null |  |
-| mp_complex3 | Null |  |
-| mp_crashsite3 | Null |  |
-| mp_drydock | Null |  |
-| mp_eden | Null |  |
-| mp_forwardbase_kodai | Null |  |
-| mp_glitch | Null |  |
-| mp_grave | Null |  |
-| mp_homestead | Null |  |
-| mp_lf_deck | Null |  |
-| mp_lf_meadow | Null |  |
-| mp_lf_stacks | Null |  |
-| mp_lf_township | Null |  |
-| mp_lf_traffic | Null |  |
-| mp_lf_uma | Null |  |
-| mp_relic02 | Null |  |
-| mp_rise | Null |  |
-| mp_thaw | Null |  |
-| mp_wargames | Null |  |
+| mp_colony02 | Very Good | Some navmesh on tower with out of bounds |
+| mp_complex3 | Ok | Lots of out of bounds like at the ark |
+| mp_crashsite3 | Very Good | Bad slopes at IMC left side |
+| mp_drydock | Very Good | Bad slopes at the middle of Militia middle |
+| mp_eden | Perfect |  |
+| mp_forwardbase_kodai | Perfect | Doesn't have titan navmesh by Militia left side pipe |
+| mp_glitch | Very Good | AI can go out of bounds |
+| mp_grave | Ok | AI can go out of bounds and can't go through some doorways |
+| mp_homestead | Good | AI can get stuck on slopes |
+| mp_lf_deck | Untested |  |
+| mp_lf_meadow | Untested |  |
+| mp_lf_stacks | Untested |  |
+| mp_lf_township | Untested |  |
+| mp_lf_traffic | Untested |  |
+| mp_lf_uma | Untested |  |
+| mp_relic02 | Very Good | AI can go out of bounds |
+| mp_rise | Ok | AI can't go through some doorways |
+| mp_thaw | Perfect |  |
+| mp_wargames | Ok | AI will jump into the pit |
